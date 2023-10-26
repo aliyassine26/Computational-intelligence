@@ -1,0 +1,28 @@
+Set covering:
+
+=====================================
+
+Minimize the number of sets
+
+You saw:
+    1- Depth first
+    2- Breadth first
+    3- Best first (greedy)
+
+Now it’s time for A star to rise
+
+=====================================
+
+A*
+Heuristic H drives the algorithm
+Admissible
+Monotonic
+
+Build a new H
+Consider the old H (distance)
+What about “special sets”?
+What about the order of the sets?
+
+====================================
+
+Deadline: Thursday, 26/10/2023 h23:59 AOE
